@@ -1,15 +1,16 @@
 # Econometrics_Seminar
+
 Identification problems in workhorse econometric models: the case of the GARCH model
 
 This ﬁle contains the replication ﬁle for ”Identiﬁcation problems in workhorse Econometric models: The case of the GARCH model” 
-
 All calculations carried out using MATLAB (R2016b).
 
-Programs Figures: We had make every density estimator plot the same way. However, we changed each time the number of bins, to make the histogram more smooth.
+Programs Figures: all density estimators are made the same way. the number of bins are changed.
 
 
 
-Functions The functions below are used in the programs that plot ﬁgures. The functions are organized by category.
+Functions: 
+The functions below are used in the programs that plot ﬁgures. The functions are organized by category.
 
 Finite-sample Distributions for the GARCH(1,1) Model
 
